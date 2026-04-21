@@ -190,7 +190,7 @@ const fr = {
     "dontShowTips": "Ne plus afficher",
 
     // Footer Toast
-    "footerToastTitle": "Entrain de voir une bannière?",
+    "footerToastTitle": "En train de voir une bannière?",
     "footerToastMessage": "Pour masquer la bannière, faites un clic droit dessus et sélectionnez 'Masquer le pied de page sur un nouvel onglet'.",
 
     // Dialog boxes (alerts)
