@@ -92,7 +92,7 @@ const fr = {
     // Weather
     "WeatherApiText": "Entrez votre clé WeatherAPI",
     "WeatherApiSubtext": "Si la fonctionnalité météo ne fonctionne pas",
-    "userAPI": "Votre clé weatherAPI",
+    "userAPI": "Votre clé WeatherAPI",
     "LearnMoreButton": "En savoir plus",
     "saveAPI": "Enregistrer",
 
@@ -168,7 +168,7 @@ const fr = {
 
 
     // Wallpaper and misc
-    "uploadWallpaperText": "Charger un fond d'ecran",
+    "uploadWallpaperText": "Charger un fond d'écran",
     "backupText": "Sauvegarder",
     "restoreText": "Restaurer",
     "rangColor": "Choisir la couleur",
